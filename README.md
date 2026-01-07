@@ -1,4 +1,4 @@
-# Excel Dashboard Project
+# Bike Sales Dashboard Project
 
 ## 🎯 Objective
 To analyze the dataset and present insights through a structured and user-friendly Excel dashboard.
